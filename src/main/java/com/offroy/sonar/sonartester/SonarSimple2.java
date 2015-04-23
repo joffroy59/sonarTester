@@ -1,6 +1,6 @@
 package com.offroy.sonar.sonartester;
 
-public class SonarSimple {
+public class SonarSimple2 {
     public String test1(String param1) {
         if (true) System.out.println("true");
         System.out.println("arf"+"1");
