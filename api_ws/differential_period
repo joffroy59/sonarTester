@@ -1,0 +1,3 @@
+
+technical debt
+http://localhost:9000/api/resources?resource=com.offroy.sonar:sonartester&metrics=sqale_index&includetrends=true
